@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_kennedys-icon icon-img user-avatar</name>
+   <tag></tag>
+   <elementGuidId>91b010b9-4aad-4696-b6c5-ec0868cc4877</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.kennedys-icon.icon-img.user-avatar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rightNavSection']/k-header-right-section/app-user-profile/a/k-icon/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>74acae6f-37ca-4b99-85e0-a3aacb0cc882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kennedys-icon icon-img user-avatar</value>
+      <webElementGuid>0acba791-e0e1-49eb-9e5b-54791b44f002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://sadazukwprod001.blob.core.windows.net/kcguserpictures/profile_pic_0000001.png</value>
+      <webElementGuid>0a48cd3b-6a77-42d3-b07a-d93ed98aac5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightNavSection&quot;)/k-header-right-section[1]/app-user-profile[1]/a[@class=&quot;round-button background-transparent&quot;]/k-icon[1]/img[@class=&quot;kennedys-icon icon-img user-avatar&quot;]</value>
+      <webElementGuid>371e7340-b35e-479b-8b70-f63571296654</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rightNavSection']/k-header-right-section/app-user-profile/a/k-icon/img</value>
+      <webElementGuid>77bad92f-2adc-4382-ad2b-616379dc4a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://sadazukwprod001.blob.core.windows.net/kcguserpictures/profile_pic_0000001.png')]</value>
+      <webElementGuid>9a39571c-7ac9-4169-ac64-fe503057fca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>e847b15c-d7ee-4aa0-b8d8-90c161777139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://sadazukwprod001.blob.core.windows.net/kcguserpictures/profile_pic_0000001.png']</value>
+      <webElementGuid>7654ac10-fb83-48cb-a5d8-97d332d9cd61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

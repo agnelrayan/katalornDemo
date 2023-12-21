@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign Out</name>
+   <tag></tag>
+   <elementGuidId>174763e3-2619-4b25-b614-477857b9b934</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-popup[@id='pop-user-options']/div/div[2]/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>933b794d-9ee2-4c8d-b6f4-6e2886aebc93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-10</value>
+      <webElementGuid>b7e5788e-e4d0-4021-b84b-7968df38c2a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sign Out </value>
+      <webElementGuid>e4c89bea-678a-4e5e-a660-1bf40500704e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pop-user-options&quot;)/div[@class=&quot;k-popup&quot;]/div[2]/div[@class=&quot;row userprofile&quot;]/div[@class=&quot;col-md-10&quot;]</value>
+      <webElementGuid>d1cdf5d7-81b5-4cdb-9a32-392c1f5864c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-popup[@id='pop-user-options']/div/div[2]/div[4]/div</value>
+      <webElementGuid>f568fef1-94e4-4d98-b3c1-6e09a9b343d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div</value>
+      <webElementGuid>a26081c7-697c-4ab6-aef5-302e92d10825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Sign Out ' or . = ' Sign Out ')]</value>
+      <webElementGuid>51bd3aec-3d6e-430c-81a4-92fb0c9fd103</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

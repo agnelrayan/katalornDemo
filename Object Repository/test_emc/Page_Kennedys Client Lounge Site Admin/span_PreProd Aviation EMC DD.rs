@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PreProd Aviation EMC DD</name>
+   <tag></tag>
+   <elementGuidId>03fea84f-ca73-46d9-9bf8-9ee4d0f10ba6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='directory-site-directory-table-widget']/div/div[2]/ksf-widget-list/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[8]/td/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c9db7c1c-ff48-442c-b6cc-23b572d4742b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PreProd Aviation EMC DD</value>
+      <webElementGuid>ab4f712b-d278-4753-b02c-40a768ef1aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;directory-site-directory-table-widget&quot;)/div[@class=&quot;widget-body kennedys-scrollbar&quot;]/div[@class=&quot;widget-instance-container&quot;]/ksf-widget-list[1]/div[2]/kendo-grid[@class=&quot;k-widget k-grid aviation-border-grid k-grid-custom-header&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;k-alt&quot;]/td[@class=&quot;no-padding&quot;]/span[1]</value>
+      <webElementGuid>b1ba64b6-3b14-4560-a433-fe02943000f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='directory-site-directory-table-widget']/div/div[2]/ksf-widget-list/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[8]/td/span</value>
+      <webElementGuid>7fe4454d-d10d-47e2-92d7-19df16d0302f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td/span</value>
+      <webElementGuid>8a87f145-b164-4335-8b87-8e9521a7467a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PreProd Aviation EMC DD' or . = 'PreProd Aviation EMC DD')]</value>
+      <webElementGuid>900baeed-c1f8-4292-99b9-d6eec6f0f7d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
